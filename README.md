@@ -22,4 +22,4 @@ npx expo start
 
 -   [expo-dev-client ](https://docs.expo.dev/eas-update/expo-dev-client/)
 -   [WatermelonDB](https://watermelondb.dev/)
--   [Orignal Sor Code](https://github.com/dilipsuthar97/RNWatermelonDB-demo)
+-   [Orignal Source Code](https://github.com/dilipsuthar97/RNWatermelonDB-demo)
