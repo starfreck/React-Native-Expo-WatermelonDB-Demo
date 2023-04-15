@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "react-native-watermelon-db-demo",
+    "name": "WatermelonDb Demo",
     "slug": "react-native-watermelon-db-demo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,22 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.starfreck.reactnativewatermelondbdemo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "@morrowdigital/watermelondb-expo-plugin",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.6.10"
+          }
+        }
+      ]
+    ]
   }
 }
