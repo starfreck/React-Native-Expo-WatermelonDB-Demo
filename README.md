@@ -1,4 +1,4 @@
-# React-Native-Expo-WatermelonDB-Demo-
+# React-Native-Expo-WatermelonDB-Demo
 
 ## 🚀 How to run the App?
 
